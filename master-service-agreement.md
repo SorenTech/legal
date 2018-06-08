@@ -1,25 +1,28 @@
 ---
 title: Master Service Agreement
-last-updated: April 27, 2017
+last-updated: June 7, 2018
 requires-sig: yes
 ---
 
 The best work comes out of great relationships. Honesty, respect and gratitude are the keys to a great relationship and therefore we have an interest in treating each other with these values at all times. As much as legal documents are important, what truly binds us is our drive to do great work with great people and to develop a relationship of mutual respect and trust.
 
-With that said, these terms and conditions (the “Terms”, or the “Agreement”) will govern the relationship between Us (Soren LLC) and You, the Client. These terms and conditions apply to the attached Statement of Work, which defines the scope, timeline, and budget for the work we will undertake together (the “Work”). We will not perform the Work apart from Your acceptance of these Terms. This Agreement may NOT be transferred by You to another party: it is only valid for You.
-
-This Agreement, along with and any exhibits, schedules or attachments, between the Parties supersedes any previous arrangements, oral or written, and may not be modified in any respect except by a future written agreement signed by both Parties.
+With that said, these terms and conditions (the “Terms”, or the “Agreement”) will govern the relationship between Us (Soren LLC or "Soren") and You (the above named Client). These terms and conditions apply to the attached Statement of Work, which defines the scope, timeline, and budget for the work we will undertake together (the “Work”). We will not perform the Work apart from Your acceptance of these Terms. This Agreement may NOT be transferred by You to another party: it is only valid for You. This Agreement, along with and any exhibits, schedules or attachments, between the Parties supersedes any previous arrangements, oral or written, and may not be modified in any respect except by a future written agreement signed by both parties.
 
 Throughout these Terms, “Deliverables” refers only and exclusively to those items listed in the section of the attached Statement of Work titled “Deliverables.” We would love to help You with additional projects, but they require an additional Agreement and attached Statement of Work/Agreement. “Services” refers to our work for You to complete the requested Deliverables.
 
+**ACCEPTANCES**
+The undersigned representative of Client has the authority to enter into this Agreement on behalf of Client. Client agrees to cooperate and to provide Soren with everything needed to complete the Services as, when and in the format requested by Soren.
+
+Soren has the experience and ability to do everything Soren agrees to for Client and will do it all in a professional and timely manner. Soren will endeavor to meet agreed upon deadlines and to meet the expectation for Services to the best of Soren's abilities.
+
 **INCORPORATION BY REFERENCE**
 
-Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference. The documents, which may be found at [https://legal.soren.tech](https://legal.soren.tech), and which are specifically incorporated by reference, and are therefore part and parcel of this Agreement are the following:
+Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference and are therefore part and parcel of this Agreement, including the following:
 
-- Our Privacy Policy: [https://legal.soren.tech/privacy-policy](/privacy-policy)
-- Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](/acceptable-use-policy)
-- Our DMCA Policy: [https://legal.soren.tech/dmca-policy](/dmca-policy)
-- Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](/confidential-and-proprietary)
+- Our Privacy Policy: [https://www.iubenda.com/privacy-policy/26828536/legal](https://www.iubenda.com/privacy-policy/26828536/legal)
+- Our Acceptable Use Policy: [https://github.com/SorenTech/legal/blob/master/acceptable-use-policy.md](https://github.com/SorenTech/legal/blob/master/acceptable-use-policy.md)
+- Our DMCA Policy: [https://github.com/SorenTech/legal/blob/master/dmca-policy.md](https://github.com/SorenTech/legal/blob/master/dmca-policy.md)
+- Our Confidential and Proprietary Information Policy: [https://github.com/SorenTech/legal/blob/master/confidential-and-proprietary.md](https://github.com/SorenTech/legal/blob/master/confidential-and-proprietary.md)
 
 **TERM AND TERMINATION:**
 
@@ -29,7 +32,7 @@ Either Party may terminate this Agreement at any time, with or without cause, up
 
 Either Party also may at any time terminate the Agreement immediately if: (i) the other party commits a breach of this Agreement and such party does not cure a breach within 5 days of written notice from the other party, or (ii) One of the parties of this agreement becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of its creditors.
 
-In the event of Early Termination, You agree to pay for all work We have performed and any expenses or fees incurred by Us up to the date of Termination, as declared in writing by Us. We agree to use Our best efforts to minimize such costs and expenses.
+In the event of Early Termination, You agree to pay for all work We have performed and any expenses or fees incurred by Us up to the date of Termination, as declared in writing by Us. Additionally, You agree to pay Us a one-time cancellation fee equal to 10% of the total project budget as provided in the Statement of Work.
 
 Termination for any reason shall not affect the rights granted to You by Us hereunder. Upon termination, We shall pay to You all undisputed amounts due and payable. If upon termination You have not paid undisputed fees owed for the Deliverables or Services provided by Us as of the date of termination, You agree not to use any such material or the product of such Service, until You have paid Us in full. Any provisions or clause in this Contract that, by its language or context, implies its survival shall survive any termination or expiration of this Agreement. Notwithstanding anything to the contrary in this Agreement, We shall retain a perfected security interest in the Deliverables until You have made payment in full for all undisputed amounts as of the termination date. We hereby agree to release and waive Our security interest in the Deliverables upon receipt of full payment for all undisputed amounts.
 
@@ -49,7 +52,7 @@ Both parties recognize that a breach of these obligations shall entitle the othe
 
 **OUR OBLIGATIONS TO YOU:**
 
-By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) log our work hours so that we have a record of the work done and a clear basis for Our billing of You, (e) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, (f) give You notice should We elect to assign the Services to a sub-contractor, and (g) provide for you all the rights and titles describes in these Terms.
+By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the attached Statement of Work in a professional and workmanlike manner, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) provide, upon request, a record of the work done and a clear basis for Our billing of You, (e) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, (f) give You notice should We elect to assign the Services to a sub-contractor, and (g) provide for you all the rights and titles describes in these Terms.
 
 YOU AGREE THAT WE ARE NOT LIABLE FOR ANYTHING NOT LISTED AS AN OBLIGATION IN THESE TERMS.
 
@@ -61,13 +64,13 @@ Changes in Your needs and expectations regarding the Services/Deliverables may r
 
 **REPRESENTATIONS AND WARRANTIES BY CLIENT:**
 
-Client hereby represents and warrants that (i) You have the right, power, and ability to enter into this Agreement, (ii) You own the rights and titles, or otherwise have permission to use, any materials You request We include in the Deliverables, (iii) to the best of Your knowledge nothing You have requested be included in the Deliverables will infringe, misappropriate or violate any intellectual property or other right of any person or entity, (iv) that You will comply with all the terms of any license governing the use of third-party materials included in the Deliverables, and (v) that Your use of the Deliverables will comply with the Acceptable Use Policy included herein and any applicable laws.
+Client hereby represents and warrants that (i) You have the right, power, and ability to enter into this Agreement and that none of such Services or any part of this Agreement is or will be inconsistent with any obligation You may have to others, (ii) You own the rights and titles, or otherwise have permission to use, any materials You request We include in the Deliverables, (iii) to the best of Your knowledge nothing You have requested be included in the Deliverables will infringe, misappropriate or violate any intellectual property or other right of any person or entity, (iv) that You will comply with all the terms of any license governing the use of third-party materials included in the Deliverables, and (v) that Your use of the Deliverables will comply with the Acceptable Use Policy included herein and any applicable laws.
 
 Should We find you to be in breach of these representations and warranties, We may, at Our sole discretion, void and cancel the Work in its entirety. In such a case, You agree that You are still responsible to pay for all Services completed up to the date of cancellation, in addition to any other remedies which may be awarded to us as a result of any claim arising from such a breach, whether brought by us or another party, including all reasonable attorney’s fees. 
 
 **REPRESENTATIONS AND WARRANTIES BY US:**
 
-Soren LLC hereby represents and warrants that: (i) We have the right, power, and ability to enter into this Agreement, (ii) none of the Services or Deliverables or any development, use, production, distribution or exploitation thereof will infringe, misappropriate or violate any intellectual property or other right of any person or entity (including, without limitation, Our own); (iii) We have the full right to provide You with the assignments and rights provided for herein; (iv) We shall comply with all applicable laws in the course of performing the Services and (v) if Our work requires a license, We have obtained that license and the license is in full force and effect.
+Soren LLC hereby represents and warrants that: (i) We have the right, power, and ability to enter into this Agreement and that none of such Services or any part of this Agreement is or will be inconsistent with any obligation We may have to others, (ii) none of the Services or Deliverables or any development, use, production, distribution or exploitation thereof will infringe, misappropriate or violate any intellectual property or other right of any person or entity (including, without limitation, Our own); (iii) We have the full right to provide You with the assignments and rights provided for herein; (iv) We shall comply with all applicable laws in the course of performing the Services and (v) if Our work requires a license, We have obtained that license and the license is in full force and effect.
 
 Should any materials We have included in the Deliverables be found to infringe upon the rights and titles of another individual or should it be found that we do not posses the fight to provide you with the assignments and rights provided herein, in breach of these representations and warranties, You shall be entitled, upon your written notification to us of such a breach, to one of the following remedies: (a) We will secure such right, title, or license as may be necessary for Your continued use; (b) We will replace such materials with ones to which we posses the right, title, or license;  or (c) You may receive a full refund for payments made under this Agreement up to the date You notified us of such breach. Should we be found to be in breach of these representations and warranties in any other manner, You shall be entitled, upon your written notification of us, to a full refund for payments made under this Agreement up to the date You notified us of such breach.
 
@@ -109,7 +112,7 @@ We agree that We have no interest in any  such materials that We submit to You, 
 
 *(e) Authorial Attribution and Showcase of Work*
 
-All Deliverables will include authorial attribution, placement and prominence to be agreed upon by both parties, which You agree to maintain in a visible and identifiable manner.
+Both Parties agree that when asked, Client must properly identify Soren as the creator of the deliverables. Client does not have a proactive duty to display Soren’s name together with the deliverables, but Client may not seek to mislead others that the deliverables were created by anyone other than Soren.
 
 You hereby agrees that We may use the Deliverables as part of Our portfolio and websites, galleries and other media solely for the purpose of showcasing Our work but not for any other purpose. We will not publish any confidential or non-public work without Your prior written consent.
 
@@ -121,11 +124,11 @@ You agree not to make any effort to hire said Assistants directly or otherwise e
 
 **PAYMENTS AND EXPENSES:**
 
-By accepting this Agreement and attached Statement of Work, You agree to the Schedule of Charges listed in the section of the attached Statement of Work titled “Budget.” You agree to make all payments on time and in full. Late or incomplete payments will compound interest at a rate of 1% per month, compounding. Please note that registered nonprofits (US 501(c)3’s or national equivalent) will be given a 30-day grace period before interest begins to compound. In the event that We begin charging interest on a late payment, We will also freeze ongoing work until payment is received. Returned checks will incur a penalty of either $25 or 5% of the balance, whichever is less.
+By accepting this Agreement and attached Statement of Work, You agree to the Schedule of Charges listed in the attached Statement of Work. You agree to make all payments on time and in full. Late or incomplete payments will compound interest at a rate of 1% per month, compounding. Please note that registered nonprofits (US 501(c)3’s or national equivalent) will be given a 30-day grace period before interest begins to compound. In the event that We begin charging interest on a late payment, We will also freeze ongoing work until payment is received. Returned checks will incur a penalty of either $25 or 5% of the balance, whichever is less.
 
 Sometimes projects incur additional expenses, such as research costs, travel expenses, or specialized subcontracted services/products required to complete the project (including but not limited to services such as professional photography or products such as proprietary software licenses required by Your specific needs). We will always make every effort to notify You in advance of any expected additional expenses. When We do incur additional expenses, we pass them along to you using the following formula: (a) individual travel and research expenses less than either 1% of the expected total project budget listed in the Statement of Work or $50, whichever is smaller (the “individual incidental expense allowance”), are written off as “incidental” until such time as the cumulative total of “incidental” expenses goes above 3% of the expected total budget or $150, whichever is smaller (the “cumulative incidental expense allowance”), (b) all non-“incidental” expenses, including all specialized subcontracted services/products, individual research and travel costs greater than the “individual incidental expense allowance,” and any “incidental” expenses in excess of the “cumulative incidental expense allowance” are passed on to you. Travel expenses, such as mileage, airfare, and meals, are passed along at cost or at the rate designated by the Internal Revenue Service, as applicable. Other expenses are passed along at a 50% mark-up. Sometimes it is possible for You to directly purchase items that might be billed as an expense. If that is possible, We will try to inform You so that you can make those arrangements.
 
-Before work can begin, We must receive a deposit of 20% of the expected project budget. After we begin work, We will send You additional invoices at regularly recurring intervals as described in the attached Statement of Work. In general, the terms of invoices will be Net+30, but We can make other arrangements upon request or in special circumstances.
+Before work can begin, We must receive a deposit of 20% of the expected project budget. After we begin work, We will send You additional invoices at regularly recurring intervals as described in the attached Statement of Work. Invoices will be due within the interval established in the attached Statement of Work.
 
 **LIMITED LIABILITY AND AGREEMENT TO INDEMNIFY:**
 
