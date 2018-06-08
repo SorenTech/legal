@@ -11,6 +11,7 @@ With that said, these terms and conditions (the “Terms”, or the “Agreement
 Throughout these Terms, “Deliverables” refers only and exclusively to those items listed in the section of the attached Statement of Work titled “Deliverables.” We would love to help You with additional projects, but they require an additional Agreement and attached Statement of Work/Agreement. “Services” refers to our work for You to complete the requested Deliverables.
 
 **ACCEPTANCES**
+
 The undersigned representative of Client has the authority to enter into this Agreement on behalf of Client. Client agrees to cooperate and to provide Soren with everything needed to complete the Services as, when and in the format requested by Soren.
 
 Soren has the experience and ability to do everything Soren agrees to for Client and will do it all in a professional and timely manner. Soren will endeavor to meet agreed upon deadlines and to meet the expectation for Services to the best of Soren's abilities.
